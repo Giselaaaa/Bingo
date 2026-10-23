@@ -1,0 +1,7 @@
+BINGO — 90 AUDIOS DE CRISTINA
+
+Los 90 MP3 ya están integrados en la carpeta audios (01.mp3 a 90.mp3).
+Para publicarlo, sube TODOS los archivos y la carpeta audios a la raíz de tu repositorio GitHub Pages.
+Abre la web una vez con internet y espera a que el navegador descargue los audios para su uso sin conexión.
+En iPhone, es recomendable abrir la web desde Safari y añadirla a la pantalla de inicio.
+El botón de sonido permite activar y silenciar las locuciones.
